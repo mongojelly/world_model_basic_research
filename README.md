@@ -1,0 +1,2 @@
+# world_model_basic_research
+在大一暑假时对世界模型的基本调研总结
